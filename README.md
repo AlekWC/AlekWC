@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlekWC
+- 👀 I’m interested in C#, Unity and websites
+- 📫 How to reach me: alekwc on Discord
+- 😄 Pronouns: he/him
